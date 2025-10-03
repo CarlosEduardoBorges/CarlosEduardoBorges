@@ -4,7 +4,7 @@
 
 Me chamo Carlos Eduardo, tenho 18 anos, sou natural de Goiás e atualmente curso Engenharia de Software no UniCEUB.
 
-Desde cedo, sou fascinado por tecnologia e pelo impacto que ela tem no mundo. Essa paixão me motivou a iniciar meus estudos de forma independente, ainda antes da faculdade, e hoje sigo aprofundando meus conhecimentos com foco em desenvolvimento de software. Atualmente, estudo Java como linguagem principal, além de explorar Python paralelamente
+Desde cedo, sou fascinado por tecnologia e pelo impacto que ela tem no mundo. Essa paixão me motivou a iniciar meus estudos de forma independente, ainda antes da faculdade, e hoje sigo aprofundando meus conhecimentos com foco em desenvolvimento de software.
 <p align="left">
     <a href="mailto:eduardoborges705@hotmail.com">
         <img 
