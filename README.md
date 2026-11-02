@@ -1,5 +1,5 @@
 # OLÁ, ME CHAMO CARLOS EDUARDO R B GONÇALVES 👋
-Estudante de Engenharia de Software (UniCEUB, 2028)
+Estudante de Engenharia de Software
 
 Desde cedo, sou fascinado por tecnologia e pelo impacto que ela tem no mundo. Essa paixão me motivou a iniciar meus estudos de forma independente, ainda antes da faculdade, e hoje sigo aprofundando meus conhecimentos com foco em desenvolvimento de software (back-end).
 
@@ -19,6 +19,6 @@ Desde cedo, sou fascinado por tecnologia e pelo impacto que ela tem no mundo. Es
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 📊 Estatísticas
+## ESTATÍSTICA
 
 ![Linguagens mais usadas](./profile/top-langs.svg)
