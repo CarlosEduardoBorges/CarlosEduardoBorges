@@ -1,84 +1,26 @@
-# 💻 Carlos Eduardo
+# OLÁ, ME CHAMO CARLOS EDUARDO R B GONÇALVES 👋
+Estudante de Engenharia de Software (UniCEUB, 2028)
 
-**`Cursando Engenharia de Software`**
+Desde cedo, sou fascinado por tecnologia e pelo impacto que ela tem no mundo. Essa paixão me motivou a iniciar meus estudos de forma independente, ainda antes da faculdade, e hoje sigo aprofundando meus conhecimentos com foco em desenvolvimento de software (back-end).
 
-Me chamo Carlos Eduardo, tenho 18 anos, sou natural de Goiás e atualmente curso Engenharia de Software no UniCEUB.
-
-Desde cedo, sou fascinado por tecnologia e pelo impacto que ela tem no mundo. Essa paixão me motivou a iniciar meus estudos de forma independente, ainda antes da faculdade, e hoje sigo aprofundando meus conhecimentos com foco em desenvolvimento de software.
-<p align="left">
-    <a href="mailto:eduardoborges705@hotmail.com">
-        <img 
-            alt="Email" 
-            title="Entre em contato por Email" 
-            src="https://img.shields.io/badge/Email-%234285F4?style=for-the-badge&logo=gmail&logoColor=white" 
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/carlos-eduardo-borges-413703364/?trk=opento_sprofile_topcard" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-        />
-    </a>
-    <a href="https://www.instagram.com/eduardo_b0rg4s/">
-    <img 
-        alt="Instagram" 
-        title="Instagram" 
-        src="https://img.shields.io/badge/Instagram-86-FF4F5E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"
-    />
-    </a>
-    <a href="https://github.com/CarlosEduardoBorges?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CarlosEduardoBorges?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/CarlosEduardoBorges?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CarlosEduardoBorges?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardoborges705@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-borges-413703364/)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Stack
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<br/>
-<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 📊 Estatísticas
-  <img 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardoborges&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+
+![Linguagens mais usadas](./profile/top-langs.svg)
